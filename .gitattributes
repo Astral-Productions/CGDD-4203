@@ -11,6 +11,7 @@
 *.umap lfs
 *.udk lfs
 *.upk lfs
+*.apk lfs
 #Blender
 *.blender lfs
 *.blender1 lfs
@@ -89,3 +90,7 @@
 # This is optional, to store information you want to share in the repository as documentation about the project, remove it if you don't need it.
 *.[pP][dD][fF] lfs
 *.json filter=lfs diff=lfs merge=lfs -text
+*.ubulk filter=lfs diff=lfs merge=lfs -text
+*.obb filter=lfs diff=lfs merge=lfs -text
+*.ucas filter=lfs diff=lfs merge=lfs -text
+*.dex filter=lfs diff=lfs merge=lfs -text
