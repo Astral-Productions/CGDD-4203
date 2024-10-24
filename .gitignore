@@ -78,3 +78,5 @@ DerivedDataCache/*
 
 #WE don't need to save logs in most cases. 
 *.log
+
+Saved/Config/CrashReportClient/*
