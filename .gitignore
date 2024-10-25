@@ -80,3 +80,4 @@ DerivedDataCache/*
 *.log
 
 Saved/Config/CrashReportClient/*
+TowerDefense/Saved/Telemetry/Telemetry.json
