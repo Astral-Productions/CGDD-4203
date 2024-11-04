@@ -492,7 +492,6 @@ D:/Tower-Defense/TowerDefense/Intermediate/Build/Android/a/UnrealGame/Developmen
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/cdefs.h \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/versioning.h \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/api-level.h \
-  C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/get_device_api_level_inlines.h \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/ndk-version.h \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstddef \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/version \
@@ -612,7 +611,6 @@ D:/Tower-Defense/TowerDefense/Intermediate/Build/Android/a/UnrealGame/Developmen
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/sysconf.h \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/unistd.h \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_unistd_inlines.h \
-  C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/swab.h \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/atomic \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__threading_support \
   C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/chrono \

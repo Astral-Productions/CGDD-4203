@@ -1,7 +1,7 @@
 NDKROOT=C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393
 ANDROID_HOME=C:/Users/NovaB/AppData/Local/Android/Sdk
 JAVA_HOME=C:/Program Files/Java/jdk-17
-NDKVersion=android-26
+NDKVersion=android-33
 SDKVersion=android-33
 bForDistribution=False
 bMakeSeparateApks=True
