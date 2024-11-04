@@ -35,22 +35,16 @@
 *.[hH][dD][rR] lfs
 *.[dD][dD][sS] lfs
 *.[eE][xX][rR] lfs
---------------------------------------------------
 # 3D formats
 # Always recommended to use:
 # The UE4 FBX import pipeline uses FBX 2018
 *.[fF][bB][xX] lfs
-# Can also be used:
 *.[oO][bB][jJ] lfs
-# Other supported formats:
 *.[aA][bB][cC] lfs
 *.[sS][rR][tT] lfs
---------------------------------------------------
 # Audio formats
 # Read more in: https://docs.unrealengine.com/4.27/en-US/WorkingWithAudio/Overview/#:~:text=Unreal%20Engine%204%20(UE4)%20supports,16%2Dbit%20format%20PCM%20files.
-# Always recommended to use:
 *.[wW][aA][vV] lfs
-# Can also be used:
 *.[aA][iI][fF][fF] lfs
 *.[oO][gG][gG] lfs
 *.[fF][lL][aA][cC] lfs
@@ -64,7 +58,6 @@
 *.[cC][aA][fF] lfs
 *.[bB][wW][fF] lfs
 *.[aA][dD][tT][sS] lfs
---------------------------------------------------
 # Video formats
 # Read more in: https://docs.unrealengine.com/5.0/en-US/media-framework-technical-reference-for-unreal-engine/
 # Always recommended to use, supports all platforms:
@@ -79,12 +72,10 @@
 *.[aA][sS][fF] lfs
 *.[aA][vV][iI] lfs
 *.[wW][mM][vV] lfs
---------------------------------------------------
 # Fonts
 # Read more in: https://docs.unrealengine.com/5.0/en-US/importing-fonts-in-unreal-engine/
 *.[tT][tT][fF] lfs
 *.[oO][tT][fF] lfs
---------------------------------------------------
 # Documents
 *.[cC][sS][vV] lfs
 # This is optional, to store information you want to share in the repository as documentation about the project, remove it if you don't need it.
@@ -94,3 +85,4 @@
 *.obb filter=lfs diff=lfs merge=lfs -text
 *.ucas filter=lfs diff=lfs merge=lfs -text
 *.dex filter=lfs diff=lfs merge=lfs -text
+*.uexp filter=lfs diff=lfs merge=lfs -text

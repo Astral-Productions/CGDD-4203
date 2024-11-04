@@ -3119,10 +3119,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ElectronicNodes/ElectronicNodes.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Media/AndroidMedia/AndroidMedia.uplugin",
 			"Type": "UFS"
 		},
@@ -3441,7 +3437,6 @@
 		"DumpGPUServices",
 		"EditorDebugTools",
 		"EditorScriptingUtilities",
-		"ElectronicNodes",
 		"EngineAssetDefinitions",
 		"EnhancedInput",
 		"EnvironmentQueryEditor",
