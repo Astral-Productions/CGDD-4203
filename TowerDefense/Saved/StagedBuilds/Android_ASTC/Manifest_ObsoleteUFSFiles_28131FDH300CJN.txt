@@ -1,3 +1,2 @@
-TowerDefense/Content/Tower-Defense/DT_LevelOneWaves.uasset
-TowerDefense/Content/Tower-Defense/DT_LevelOneWaves.uexp
 TowerDefense/Saved/Logs/TowerDefense.log
+TowerDefense/Saved/Logs/TowerDefense-backup-2024.11.15-00.25.22.log
