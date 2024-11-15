@@ -613,6 +613,7 @@ Engine:AssetRegistry:AssetRegistryDiscoveryCache:0=Never
 Engine:AutomationTesting:bForceSmokeTests:0=false
 Engine:/Script/Engine.AutomationTestSettings:MaterialEditorPromotionTest:0=(DefaultMaterialAsset=(FilePath="../../Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset"),DefaultDiffuseTexture=(FilePath="../../Content/EngineMaterials/DefaultDiffuse.uasset"),DefaultNormalTexture=(FilePath="../../Content/EngineMaterials/DefaultNormal.uasset"))
 Engine:/Script/NavigationSystem.NavigationSystemV1:bAutoCreateNavigationData:0=true
+Engine:/Script/NavigationSystem.NavigationSystemV1:bShouldDiscardSubLevelNavData:0=False
 Engine:/Script/NavigationSystem.NavigationData:RuntimeGeneration:0=Static
 Engine:/Script/NavigationSystem.RecastNavMesh:TileSetUpdateInterval:0=1.0
 Engine:/Script/NavigationSystem.RecastNavMesh:DefaultDrawDistance:0=5000.0
@@ -629,6 +630,7 @@ Engine:/Script/NavigationSystem.RecastNavMesh:AgentMaxSlope:0=44.f
 Engine:/Script/NavigationSystem.RecastNavMesh:MinRegionArea:0=0.f
 Engine:/Script/NavigationSystem.RecastNavMesh:MergeRegionSize:0=400.f
 Engine:/Script/NavigationSystem.RecastNavMesh:bUseBetterOffsetsFromCorners:0=true
+Engine:/Script/NavigationSystem.RecastNavMesh:bForceRebuildOnLoad:0=True
 Engine:/Script/NavigationSystem.NavArea_Null:DrawColor:0=(R=38,G=38,B=38,A=64)
 Engine:/Script/NavigationSystem.NavArea_Default:DrawColor:0=(R=140,G=255,B=0,A=164)
 Engine:Engine.ErrorHandling:bPromptForRemoteDebugging:0=false
