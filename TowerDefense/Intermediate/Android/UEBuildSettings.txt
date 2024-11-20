@@ -53,7 +53,7 @@ bBuildWithHiddenSymbolVisibility=True
 bSaveSymbols=false
 bAllowControllers=True
 bAllowIMU=False
-bUseDisplayCutout=False
+bUseDisplayCutout=True
 bEnableSnapshots=False
 bRestoreNotificationsOnReboot=False
 bEnableBundle=False
@@ -78,6 +78,7 @@ bEnableMulticastSupport=False
 bEnableRayTracing=true
 bAllowResizing=false
 bSupportSizeChanges=false
+MaxAspectRatio=2.800000
 SDKPath=(Path="C:/Users/NovaB/AppData/Local/Android/Sdk")
 NDKPath=(Path="C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393")
 JavaPath=(Path="C:/Program Files/Java/jdk-17")

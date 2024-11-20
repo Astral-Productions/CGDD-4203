@@ -279,11 +279,11 @@
 144            android:value="false" />
 144-->Z:\app\src\main\AndroidManifest.xml:38:81-102
 145        <meta-data
-145-->Z:\app\src\main\AndroidManifest.xml:39:5-107
+145-->Z:\app\src\main\AndroidManifest.xml:39:5-106
 146            android:name="com.epicgames.unreal.GameActivity.bUseDisplayCutout"
 146-->Z:\app\src\main\AndroidManifest.xml:39:16-82
-147            android:value="false" />
-147-->Z:\app\src\main\AndroidManifest.xml:39:83-104
+147            android:value="true" />
+147-->Z:\app\src\main\AndroidManifest.xml:39:83-103
 148        <meta-data
 148-->Z:\app\src\main\AndroidManifest.xml:40:5-99
 149            android:name="com.epicgames.unreal.GameActivity.bAllowIMU"
@@ -470,7 +470,7 @@
 241-->Z:\app\src\main\AndroidManifest.xml:73:5-73
 242            android:name="android.max_aspect"
 242-->Z:\app\src\main\AndroidManifest.xml:73:16-49
-243            android:value="2.10" />
+243            android:value="2.80" />
 243-->Z:\app\src\main\AndroidManifest.xml:73:50-70
 244        <meta-data
 244-->Z:\app\src\main\AndroidManifest.xml:74:5-89

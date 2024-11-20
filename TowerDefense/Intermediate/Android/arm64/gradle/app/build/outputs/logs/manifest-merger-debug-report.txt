@@ -268,9 +268,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:38:5-105
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:38:16-80
 meta-data#com.epicgames.unreal.GameActivity.bUseDisplayCutout
-ADDED from Z:\app\src\main\AndroidManifest.xml:39:5-107
+ADDED from Z:\app\src\main\AndroidManifest.xml:39:5-106
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:39:83-104
+		ADDED from Z:\app\src\main\AndroidManifest.xml:39:83-103
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:39:16-82
 meta-data#com.epicgames.unreal.GameActivity.bAllowIMU

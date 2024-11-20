@@ -144,7 +144,7 @@
             android:value="false" />
         <meta-data
             android:name="com.epicgames.unreal.GameActivity.bUseDisplayCutout"
-            android:value="false" />
+            android:value="true" />
         <meta-data
             android:name="com.epicgames.unreal.GameActivity.bAllowIMU"
             android:value="false" />
@@ -240,7 +240,7 @@
 
         <meta-data
             android:name="android.max_aspect"
-            android:value="2.10" />
+            android:value="2.80" />
         <meta-data
             android:name="com.google.ar.core"
             __line="24"

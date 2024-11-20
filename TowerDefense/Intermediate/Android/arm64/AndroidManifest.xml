@@ -36,7 +36,7 @@
     <meta-data android:name="com.epicgames.unreal.GameActivity.bValidateTextureFormats" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bUseExternalFilesDir" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bPublicLogFiles" android:value="false" />
-    <meta-data android:name="com.epicgames.unreal.GameActivity.bUseDisplayCutout" android:value="false" />
+    <meta-data android:name="com.epicgames.unreal.GameActivity.bUseDisplayCutout" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bAllowIMU" android:value="false" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bSupportsVulkan" android:value="false" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.PropagateAlpha" android:value="0" />
@@ -70,7 +70,7 @@
         <action android:name="com.android.vending.INSTALL_REFERRER" />
       </intent-filter>
     </receiver>
-    <meta-data android:name="android.max_aspect" android:value="2.10" />
+    <meta-data android:name="android.max_aspect" android:value="2.80" />
     <meta-data android:name="com.google.ar.core" android:value="required" __line="24" />
     <service android:name="com.epicgames.unreal.RemoteFileManagerService" android:foregroundServiceType="dataSync" android:exported="true" __line="71" />
     <activity android:name="com.epicgames.unreal.RemoteFileManagerActivity" android:exported="true" android:screenOrientation="sensor" android:theme="@android:style/Theme.NoDisplay" __line="72">
