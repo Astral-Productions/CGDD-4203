@@ -4,8 +4,8 @@
 -I"Runtime/Core/Public"
 -I"Runtime/Core/Internal"
 -I"Runtime/TraceLog/Public"
--isystem"C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
--isystem"C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
+-isystem"C:/Users/KnightzVR/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
+-isystem"C:/Users/KnightzVR/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
 -Wall
 -Werror
 -Wdelete-non-virtual-dtor
@@ -64,9 +64,9 @@
 -fno-short-enums
 -fforce-emit-vtables
 -D_FORTIFY_SOURCE=2
--DPLATFORM_USED_NDK_VERSION_INTEGER=33
+-DPLATFORM_USED_NDK_VERSION_INTEGER=26
 -DPLATFORM_64BITS=1
- --target=aarch64-none-linux-android33 --gcc-toolchain="C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/NovaB/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
+ --target=aarch64-none-linux-android26 --gcc-toolchain="C:/Users/KnightzVR/AppData/Local/Android/Sdk/ndk/25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/KnightzVR/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
 -D__arm64__
 -DPLATFORM_ANDROID_ARM64=1
 -march=armv8-a
@@ -75,6 +75,6 @@
 -fpch-instantiate-templates
 -std=c++20
 -fpch-validate-input-files-content
-"D:/Tower-Defense/TowerDefense/Intermediate/Build/Android/a/TowerDefense/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h"
--MD -MF"D:/Tower-Defense/TowerDefense/Intermediate/Build/Android/a/TowerDefense/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h.d"
--o "D:/Tower-Defense/TowerDefense/Intermediate/Build/Android/a/TowerDefense/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h.gch"
+"C:/TowerDefense_CGDD4203/CGDD-4203/TowerDefense/Intermediate/Build/Android/a/TowerDefense/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h"
+-MD -MF"C:/TowerDefense_CGDD4203/CGDD-4203/TowerDefense/Intermediate/Build/Android/a/TowerDefense/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h.d"
+-o "C:/TowerDefense_CGDD4203/CGDD-4203/TowerDefense/Intermediate/Build/Android/a/TowerDefense/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h.gch"

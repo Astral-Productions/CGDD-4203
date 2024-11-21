@@ -27,6 +27,10 @@
 	],
 	"RuntimeDependencies": [
 		{
+			"Path": "$(ProjectDir)/TowerDefense.uproject",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Content/Renderer/TessellationTable.bin",
 			"Type": "NonUFS"
 		},
@@ -3369,10 +3373,6 @@
 		{
 			"Path": "$(EngineDir)/Plugins/WorldMetrics/WorldMetrics.uplugin",
 			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/TowerDefense.uproject",
-			"Type": "UFS"
 		}
 	],
 	"BuildPlugins": [
@@ -3511,7 +3511,6 @@
 		"RenderDocPlugin",
 		"RenderGraphInsights",
 		"ResonanceAudio",
-		"RiderLink",
 		"RiderSourceCodeAccess",
 		"RigVM",
 		"SQLiteCore",
